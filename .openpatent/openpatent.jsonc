@@ -8,12 +8,10 @@
     "STYLE_GUIDE.md"
   ],
   "provider": {
-    "openpatent": {
-      "options": {},
-    },
-  },
-  "mcp": {},
-  "tools": {
-    "github-triage": false,
-  },
+    "lm studio": {"name": "LM Studio",
+      "options": {"baseURL": "HTTP://localhost:1234/v1","apikey":"not-needed"
+    }
+}
+},
+  "defaultmodel":"lmstudio"/meta-llama-3-8b-instruct:2"
 }
