@@ -8,11 +8,11 @@
     "STYLE_GUIDE.md"
   ],
   "provider": {
-    "openpatent": {
-      "options": {},
+    "lmstudio", 
+      "name": "meta-llama-3-8b-instruct:2"        
     },
   },
-  "mcp": {},
+  "mcp": {openpatent.json},
   "tools": {
     "github-triage": false,
   },
